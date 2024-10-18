@@ -1,0 +1,26 @@
+# RUC
+DOMAIN-SUFFIX, ruc.edu.cn, Direct
+# AI
+DOMAIN-SUFFIX, openai.com, Others
+DOMAIN-SUFFIX, chatgpt.com, Others
+DOMAIN-SUFFIX, copilot.microsoft.com, USA
+# 国外网站
+DOMAIN-SUFFIX, github.com, HK
+DOMAIN-SUFFIX, youtube.com, HK
+DOMAIN-SUFFIX, google.com, USA
+DOMAIN-SUFFIX, gstatic.com, USA
+# 国内网站
+DOMAIN-SUFFIX, moonshot.cn, Direct
+DOMAIN-SUFFIX, aliyundrive.com, Direct
+HOST-KEYWORD, aliyundrive, Direct
+DOMAIN-SUFFIX, bilibili.com, Direct
+DOMAIN-SUFFIX, zhihu.com, Direct
+DOMAIN-SUFFIX, csdn.net, Direct
+DOMAIN-SUFFIX, weixin.qq.com, Direct
+DOMAIN-SUFFIX, 163.com, Direct
+DOMAIN-SUFFIX, youdao.com, Direct
+DOMAIN-SUFFIX, sflep.com, Direct
+DOMAIN-SUFFIX, icloud.com.cn, Direct
+# App Store & Apple Music
+DOMAIN-SUFFIX, mzstatic.com, Direct
+DOMAIN-SUFFIX, apple.com, Direct
