@@ -9,6 +9,7 @@ DOMAIN-SUFFIX, github.com, HK
 DOMAIN-SUFFIX, youtube.com, HK
 DOMAIN-SUFFIX, google.com, USA
 DOMAIN-SUFFIX, gstatic.com, USA
+DOMAIN-SUFFIX, notion.so, USA
 # 国内网站
 DOMAIN-SUFFIX, moonshot.cn, Direct
 DOMAIN-SUFFIX, aliyundrive.com, Direct
