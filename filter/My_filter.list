@@ -10,6 +10,7 @@ DOMAIN-SUFFIX, youtube.com, HK
 DOMAIN-SUFFIX, google.com, Japan
 DOMAIN-SUFFIX, gstatic.com, USA
 HOST-KEYWORD, notion, HK
+HOST-KEYWORD, reddit, HK
 # 国内网站
 DOMAIN-SUFFIX, moonshot.cn, Direct
 DOMAIN-SUFFIX, aliyundrive.com, Direct
