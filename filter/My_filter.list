@@ -7,10 +7,10 @@ DOMAIN-SUFFIX, copilot.microsoft.com, USA
 # 国外网站
 DOMAIN-SUFFIX, github.com, HK
 DOMAIN-SUFFIX, youtube.com, HK
-DOMAIN-SUFFIX, google.com, Japan
 DOMAIN-SUFFIX, gstatic.com, USA
 HOST-KEYWORD, notion, HK
 HOST-KEYWORD, reddit, HK
+HOST-KEYWORD, google, USA
 # 国内网站
 DOMAIN-SUFFIX, moonshot.cn, Direct
 DOMAIN-SUFFIX, aliyundrive.com, Direct
